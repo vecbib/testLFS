@@ -1,0 +1,7 @@
+1
+bar1.txt
+bar2.txt
+bar.txt
+foo.txt
+Readme.txt
+windows
